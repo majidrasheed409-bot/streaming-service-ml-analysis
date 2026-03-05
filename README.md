@@ -148,5 +148,3 @@ Research interests include:
 * AI-driven decision systems
 
 ---
-
-If you want, I can also show you **one more project you already have in your files that could become your *fourth portfolio project*** (and it’s actually **very attractive to employers**).
