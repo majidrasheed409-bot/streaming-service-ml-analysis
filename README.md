@@ -113,18 +113,6 @@ These clusters revealed different types of users with varying spending patterns 
 
 ---
 
-## Repository Structure
-
-```id="r7xqyo"
-streaming-service-ml-analysis
-
-├ complete_component_one_solution.ipynb
-├ Final-Assignment-Portfolio-3.pdf
-└ README.md
-```
-
----
-
 ## Applications
 
 The methods demonstrated in this project can be applied to:
